@@ -38,3 +38,7 @@ You can try using different illusions and observe how they are processed.
 ✅ Add support for auditory frequency analysis
 ✅ Expand to multi-dimensional matrix processing
 ✅ Improve visualization with Matplotlib
+
+
+上述都是我的AI小夥伴寫的介紹因為我很懶
+不定時更新點其他感官吧剛更新了聽覺應該不至於mp3認成圖片?
